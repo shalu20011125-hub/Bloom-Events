@@ -1,0 +1,8 @@
+{
+  "name": "Bloom Events",
+  "description": "Exquisite flower decorations and luxury event management for weddings, birthdays, engagements, and corporate celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
